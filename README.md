@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapil-grv
 - 👀 I’m interested in Geospatial Technologies
-- 🌱 I’m currently learning Big data management
+- 🌱 I’m currently learning AI / ML
 - 💞️ I’m looking to collaborate on any geospatial sciences
 - 📫 How to reach me - https://kapilgrv.in
 
